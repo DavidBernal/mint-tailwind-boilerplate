@@ -1,0 +1,19 @@
+{
+  "name": "mint-tailwind-boilerplate",
+  "application": {
+    "head": "assets/head.html",
+    "title": "mint-tailwind-boilerplate",
+    "icon": "assets/favicon.png"
+  },
+  "external": {
+    "stylesheets": [
+      "assets/style.css"
+    ]
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
