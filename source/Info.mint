@@ -13,7 +13,7 @@ component Info {
   }
 
   fun render : Html {
-    <p::info class="text-blue-500">
+    <p::info class="text-blue-400">
       <{ "Edit " }>
 
       <code::path>
